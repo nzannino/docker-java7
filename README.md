@@ -1,1 +1,1 @@
-image with oracle java 7
+base image from phusion with oracle java 7
